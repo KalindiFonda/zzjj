@@ -71,6 +71,7 @@ a:hover {
 	line-height: 6em;
 }
 
+
 table {
 	margin: 0 auto;
 }
@@ -81,6 +82,10 @@ td {
 
 .dan {
 	font-weight: 500;
+}
+
+.narocanje-img {
+	max-width: 90%;
 }
 
 .o-nas {

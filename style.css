@@ -20,7 +20,7 @@ header {
 	-o-background-size: cover;
 	background-size: cover;
 	background-position: center;
-	margin: 3em -10px;
+	margin: 3em -10px 0.1em;
 }
 
 h1 {
@@ -124,6 +124,15 @@ footer {
 
 .small-yes {
 	display: none;
+}
+
+
+#top,
+#delovni-cas,
+#narocanje,
+#kje-smo {
+    padding-top: 35px;
+    margin-top: -35px;
 }
 
 

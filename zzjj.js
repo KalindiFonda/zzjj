@@ -11,7 +11,7 @@ function initialize() {
   var marker = new google.maps.Marker({
     position: myLatLng,
     map: map,
-    title: 'Hello World!'
+    title: 'ZZJJ'
   });
 }
 google.maps.event.addDomListener(window, 'load', initialize);

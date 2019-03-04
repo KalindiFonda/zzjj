@@ -36,7 +36,7 @@ h3 {
 }
 
 .dan,
-.left {
+.left{
 	text-align: left;
 }
 
@@ -114,7 +114,11 @@ a:hover {
 	color: black;
 }
 
+.narocanje {
+	max-width: 600px;
+	margin: -0.5em auto 1em;
 
+}
 
 nav {
 	position: fixed;

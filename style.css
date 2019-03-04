@@ -237,6 +237,7 @@ footer {
 
 	.image {
 		max-width: 110%;
+		background-attachment: scroll
 	}
 
 	.o-nas {

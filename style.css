@@ -195,6 +195,15 @@ footer {
 
 
 @media screen and (max-width: 640px) {
+
+	nav {
+		padding: 1em 0.5em
+	}
+
+	nav a {
+		padding: 5px;
+	}
+
 	.small-no {
 		display: none;
 	}

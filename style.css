@@ -230,8 +230,34 @@ footer {
 		max-width: 110%;
 	}
 
+	.o-nas {
+		width: 90%;
+	}
+
 	.o-nas p {
 		min-width: 300px;
+	}
+
+
+	.trees {
+		background-image: url(img/trees_s.png);
+	}
+
+	.sea {
+		background-image: url(img/sea_s.png);
+	}
+
+	.field {
+		background-image: url(img/field_s.png);
+	}
+
+	.peer {
+		background-image: url(img/peer_s.png);
+	}
+
+	.steps {
+		background-image: url(img/steps_s.png);
+		image-orientation: 90deg;
 	}
 }
 

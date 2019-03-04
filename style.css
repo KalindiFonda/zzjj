@@ -40,12 +40,6 @@ h3 {
 	text-align: left;
 }
 
-.o-nas {
-	margin: 30px auto 0;
-	min-width: 300px;
-	width: 60%;
-}
-
 .logo {
 	width: 5em;
 	padding: 0 5% 0 0.4em;
@@ -90,8 +84,18 @@ header,
 	justify-content: space-around;
 }
 
-details {
+.info details {
 	max-width: 30%;
+}
+
+.o-nas {
+	margin: 30px auto;
+	width: 60%;
+}
+
+.o-nas summary {
+	font-size: 20px;
+	font-weight: 900;
 }
 
 .ncd-img {
@@ -105,7 +109,6 @@ details {
 	border: 2px solid;
 	margin: 1em auto 2em;
 }
-
 
 a {
 	text-decoration: none;
@@ -226,6 +229,9 @@ footer {
 		max-width: 110%;
 	}
 
+	.o-nas p {
+		min-width: 300px;
+	}
 }
 
 

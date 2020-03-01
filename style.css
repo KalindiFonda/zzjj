@@ -14,12 +14,18 @@ h1 {
 	padding-left: 1em;
 	font-size: 3em;
 	color: #353434;
+  	font-weight: 100;
+
     text-shadow: #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px,
              	 #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px,
              	 #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px,
              	 #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px;
     -webkit-font-smoothing: antialiased;
-  	font-weight: 100;
+}
+
+.header-desc {
+	font-size: 20px;
+	color: lightgray;
 }
 
 h3,

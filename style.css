@@ -58,12 +58,12 @@ h3 {
 }
 
 .content {
-	padding: 2em;
+	padding: 0.5em 2em;
 }
 
 
 td {
-	padding: 0.1em 2em;
+	padding: 0.1em 0.5em;
 }
 
 table {
@@ -120,8 +120,9 @@ a:hover {
 	color: rgb(57, 97, 211);
 }
 
-.text a {
+.text {
 	color: black;
+	margin-bottom: -10px;
 }
 
 .narocanje {
